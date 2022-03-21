@@ -1,7 +1,19 @@
 hey I am doing task 
+<<<<<<< HEAD
 I made a repository named last task 
 Cloned that repo in the workspace.
 Made a file in the main branch and added some content.
 Made a new branch named feature and lets do some changes in it.
 let do some changes in this file.
 Push it to the remote repository.
+=======
+1. I made a repository named last task 
+2. Cloned that repo in the workspace.
+3. made a file in the main branch and added some content.
+4. Made a new branch named feature and lets do some changes in it.
+5. let do some changes in this file.
+6. Push it to the remote repository.
+7. Made a pull request feature to main
+8. check the mergeability.
+9. Merge the existing 
+>>>>>>> feature
